@@ -32,12 +32,12 @@ To reduce the training cost associated with multiple backpropagation steps durin
 To cite our paper and/or this repository in publications:
 
 ```bibtex
-@article{xu2026proxy,
-  title={Proxy target: Bridging the gap between discrete spiking neural networks and continuous control},
+@inproceedings{xu2025proxy,
+  title={Proxy Target: Bridging the Gap Between Discrete Spiking Neural Networks and Continuous Control},
   author={Xu, Zijie and Bu, Tong and Hao, Zecheng and Ding, Jianhao and Yu, Zhaofei},
-  journal={Advances in Neural Information Processing Systems},
+  booktitle={Advances in Neural Information Processing Systems},
   volume={38},
   pages={159158--159184},
-  year={2026}
+  year={2025}
 }
 ```
